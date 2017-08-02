@@ -1,6 +1,6 @@
 # Base docker image
 
-[![Image name](https://img.shields.io/badge/docker-hope/base-brightgreen.svg)](https://hub.docker.com/r/hope/base/)
+[![Codefresh build status]( https://g.codefresh.io/api/badges/build?repoOwner=HopeUA&repoName=docker-base&branch=7&pipelineName=main&accountName=hopeua&type=cf-1)]( https://g.codefresh.io/repositories/HopeUA/docker-base/builds?filter=trigger:build;branch:7;service:598244aa0ae1710001ff1d58~main) [![Github](https://img.shields.io/github/stars/HopeUA/docker-base.svg?style=social&label=Star)](https://github.com/HopeUA/docker-base)
 
 Base image to create other images. Based on latest stable **CentOS 7** release.
 
